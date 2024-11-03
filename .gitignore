@@ -5,3 +5,8 @@
 # obsidian 제외
 .obsidian
 .obsidian/*
+
+# 제외 방법
+# git rm -r --cached .idea
+# git add .
+# git commit -m "Apply .gitignore"
