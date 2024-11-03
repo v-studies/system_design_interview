@@ -1,0 +1,7 @@
+# idea 제외
+.idea
+.idea/*
+
+# obsidian 제외
+.obsidian
+.obsidian/*
